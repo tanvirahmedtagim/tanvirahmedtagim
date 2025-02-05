@@ -19,7 +19,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Node JS, Express JS**  
+- 🌱 I’m currently learning **Node JS, Express JS,Next JS**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://tanvirahmedtagim.netlify.app/)  
 - 📫 How to reach me: **tanviahmedtagim@gmail.com**  
 
@@ -87,4 +87,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirahmedtagim&show_icons=true&locale=en" alt="tanvirahmedtagim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirahmedtagim&" alt="tanvirahmedtagim" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=tanvirahmedtagim&theme=radical" alt="GitHub Streak" />
+</p>
